@@ -1,6 +1,6 @@
 # Hangman Game
 
-A simple movie guessing game made completely using python.
+The classic movie guessing game made completely using python.
 
 ## How to install
 1. Download the .zip file from the link given in about section.
