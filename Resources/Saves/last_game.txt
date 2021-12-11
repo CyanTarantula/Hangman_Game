@@ -1,0 +1,14 @@
+movie=
+hint_for_movie=
+release_year=
+result=
+display_line=
+right_answer=
+letters_in_movie=
+correct_guesses=
+wrong_guesses=
+mistakes=0
+streak=0
+played_level=0
+skipped_level=0
+game_ended=1
